@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e8d22857-51da-4f56-8258-c5f2ce897ba1)# 🥚 Alternative Non-Destructive Approach for Estimating Morphometric Measurements of Chicken Eggs from Tomographic Images with Computer Vision
+# 🥚 Alternative Non-Destructive Approach for Estimating Morphometric Measurements of Chicken Eggs from Tomographic Images with Computer Vision
 
 This repository contains code and resources for estimating morphometric measurements (e.g., height, width, and shell thickness) of chicken eggs using **real CT images**. The system uses two approaches:
 
@@ -41,7 +41,7 @@ The system has been tested with real tomographic data of chicken eggs.
 ---
 
 ## 🚀 Cite
-
+### BibTeX
 @article{article,
 author = {Vargas, Jean and Abreu, Katariny and de Paula, Davi and Salvadeo, Denis and Souza, Lilian and Rabello, Carlos},
 year = {2024},
